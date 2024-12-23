@@ -2,4 +2,4 @@
 This is a demo for Git &amp; Github class
 
 
-# This is frist try to push.
+# This is first try to push.
